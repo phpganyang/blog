@@ -1,0 +1,56 @@
+[ 2016-09-10T08:19:30+08:00 ] 127.0.0.1 /login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002616s ]
+ERR: 无法加载模块:Login
+
+[ 2016-09-10T08:19:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-10T08:20:04+08:00 ] 127.0.0.1 /login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Login
+
+[ 2016-09-10T09:58:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-10T10:01:07+08:00 ] 127.0.0.1 /login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Login
+
+[ 2016-09-10T10:07:16+08:00 ] 127.0.0.1 /login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: No ending delimiter '/' found F:\phpstudy\WWW\blog\ThinkPHP\Library\Think\Route.class.php 第 58 行.
+ERR: 无法加载模块:Login
+
+[ 2016-09-10T10:07:18+08:00 ] 127.0.0.1 /login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+NOTIC: [2] preg_match() [<a href='function.preg-match'>function.preg-match</a>]: No ending delimiter '/' found F:\phpstudy\WWW\blog\ThinkPHP\Library\Think\Route.class.php 第 58 行.
+ERR: 无法加载模块:Login
+
+[ 2016-09-10T10:07:34+08:00 ] 127.0.0.1 /login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:Login
+
+[ 2016-09-10T10:07:39+08:00 ] 127.0.0.1 /login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 无法加载模块:Login
+
